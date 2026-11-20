@@ -5,42 +5,42 @@
   </picture>
 </p>
 
-<p align="center"><b>A calm Windows workspace for studying NSE stocks.</b><br>Tarka reads end-of-day prices, runs a fixed set of rules over them and shows what it found, with the reasons.<br>It describes; it never advises. Every decision stays yours.</p>
+<p align="center"><b>A calm Windows workspace for studying NSE stocks, mutual funds and index options.</b><br>Tarka reads end-of-day prices, runs a fixed set of rules over them and shows what it found, with the reasons.<br>It describes; it never advises. Every decision stays yours.</p>
 
 <p align="center">
   <a href="https://github.com/medha-labs/tarka/releases/latest/download/TarkaSetup.exe"><img src="https://github.com/user-attachments/assets/9388d987-b059-4b7c-b8d9-ea47afd717f4" alt="Download for Windows" width="260"></a>&nbsp;&nbsp;
   <a href="https://github.com/medha-labs/tarka/releases/latest/download/Tarka-User-Manual.pdf"><img src="https://github.com/user-attachments/assets/35efae76-844e-49c8-be32-db53d3628782" alt="User guide (PDF)" width="260"></a>
 </p>
-<p align="center"><sub>Windows 11 · free · installs without admin rights · <a href="https://github.com/medha-labs/tarka/releases">all releases and what's new</a></sub></p>
+<p align="center"><sub>Windows 11 · free · installs without admin rights · version 1.3 · <a href="https://github.com/medha-labs/tarka/releases">all releases and what's new</a></sub></p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/dacef5a3-a436-46cf-8124-4f0793db3f4a" alt="Tarka in 15 seconds: Today, Desk, Scans, Lists, the PDF Brief, Record and the AI engine choice" width="100%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/7a64aac4-e6f9-4063-97d0-1b615b785a4a" alt="Tarka 1.3 in 15 seconds" width="100%"></p>
 
 ## What Tarka does
 
 <table>
 <tr>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/8afc57dd-80f4-42e0-a26f-dac44544b2d7" alt="Today screen" width="100%"><br><b>Today</b><br><sub>The market regime in one word, with the four signals behind it, plus what to protect and what is worth watching.</sub></td>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/34ada88e-4bc3-4c31-b7e6-e69710ccacf7" alt="Desk screen" width="100%"><br><b>Desk</b><br><sub>One stock in depth: chart, technicals, fundamentals, notes and an optional AI read.</sub></td>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/ed67ba26-8f51-4291-8392-5f54d1264644" alt="Scans screen" width="100%"><br><b>Scans</b><br><sub>Support-zone and breakout setups across the Nifty 500, each with entry, stop and target.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/7bcd6a4b-d1fe-4022-a42f-20defc9a1ca5" alt="Today screen" width="100%"><br><b>Today</b><br><sub>The market regime in one word, then today's picks in your own style: stocks, funds and index options.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/1bce7600-c212-4046-918d-bb435ebc1d46" alt="Funds screen" width="100%"><br><b>Mutual funds</b><br><sub>About 300 Direct-Growth funds ranked within their category from AMFI data, with information ratio.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/e0c5026a-c5c8-4dab-ae67-be3f359f8990" alt="Fund houses tab" width="100%"><br><b>Fund houses</b><br><sub>AMCs ranked by where their funds place inside their own categories.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/065b1916-1e87-4c03-b745-a707fae4a084" alt="AI engine choice" width="100%"><br><b>Your choice of AI</b><br><sub>Gemini (free tier), OpenAI, Claude API or Claude Code. Optional: everything else works without it.</sub></td>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/cd034715-528a-48a3-bd51-dcc5ee5b0852" alt="Dark and Light themes" width="100%"><br><b>Dark and Light</b><br><sub>Both themes, and larger text when you want it.</sub></td>
-<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/7662dad7-bc29-417e-b570-6ef567954974" alt="Narrow window layouts" width="100%"><br><b>Any window size</b><br><sub>Screens rearrange cleanly down to a narrow window.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/5a9fac19-59b4-444a-8394-07e819520dc3" alt="Options screen" width="100%"><br><b>Options</b><br><sub>Nifty 50 and Sensex ideas on real data, with loss at stop and profit at target side by side.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/ebcd2171-3140-44ce-816e-f7fa796c961e" alt="Desk screen" width="100%"><br><b>Desk</b><br><sub>One stock in depth: chart, technicals, fundamentals, notes and an optional AI read.</sub></td>
+<td width="33%" valign="top"><img src="https://github.com/user-attachments/assets/22a27bd1-d96e-46a6-b772-dd3a302f0bf3" alt="Dark and Light themes" width="100%"><br><b>Dark and Light</b><br><sub>Both themes in Tarka colour, and larger text when you want it.</sub></td>
 </tr>
 </table>
 
-**Also inside:** Lists for watchlists and holdings · Reports as PDFs · Record, which tracks how earlier ideas turned out · **Tarka Brief**, an optional morning PDF report by email and a Windows notification · backups you can restore · a built-in manual, tours and tips.
+**Also inside:** Scans for support-zone and breakout setups across the Nifty 500 · Lists for watchlists and holdings · Reports as PDFs · Record, which tracks how earlier ideas turned out · your choice of AI engine (optional) · **Tarka Brief**, an optional morning PDF report by email and a Windows notification · backups you can restore · a built-in manual, tours and tips.
 
 ## Watch the tour
 
-https://github.com/user-attachments/assets/ff9a507c-0d15-4dc1-955e-a6ee643d82d0
+https://github.com/user-attachments/assets/442cd6ed-d02c-47df-a58b-0ad0141af2be
 
 ## Get started
 
 1. Download **[TarkaSetup.exe](https://github.com/medha-labs/tarka/releases/latest/download/TarkaSetup.exe)** and open it. No admin rights or other software needed.
 2. Windows shows **Windows protected your PC** because the installer isn't code-signed. Choose **More info**, then **Run anyway**.
-3. Tarka opens on its own. *Set up Tarka* asks your trading style and watchlist, then downloads market data.
+3. Tarka opens on its own. *Set up Tarka* asks your trading style and watchlist, then downloads market data. Open **Funds** once and Tarka builds 5 years of fund history (about 10 to 15 minutes).
 
 Tarka checks for updates when it starts and offers them; your settings, lists and history are kept. The **[user guide](https://github.com/medha-labs/tarka/releases/latest/download/Tarka-User-Manual.pdf)** covers every screen, the morning Brief and the FAQ.
 
@@ -76,4 +76,4 @@ Open an [issue](https://github.com/medha-labs/tarka/issues) with what you saw an
 
 ---
 
-<sub>Prices are end of day from Yahoo Finance, for personal use only. Tarka is a study aid, not investment advice. Windows only for now. Made by <a href="https://github.com/medha-labs">medha-labs</a>.</sub>
+<sub>Prices are end of day from Yahoo Finance; fund NAVs from AMFI and index returns from NSE Indices; all for personal use only. Tarka is a study aid, not investment advice. Windows only for now. Made by <a href="https://github.com/medha-labs">medha-labs</a>.</sub>
